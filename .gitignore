@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Build artifacts
+*.o
+a.out
+
+# Editor files
+.vscode/
+*.swp
+*~
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.pyc
+
+# Compiled C/C++ output
+*.exe
+*.out
+*.app
