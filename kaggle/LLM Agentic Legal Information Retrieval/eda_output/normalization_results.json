@@ -1,0 +1,49 @@
+{
+  "train": {
+    "total": 4659,
+    "resolved": 4548,
+    "resolved_pct": 97.61751448808758,
+    "strategy_breakdown": {
+      "exact": 3319,
+      "no_match": 111,
+      "parent_to_children": 1215,
+      "child_to_parent": 14
+    },
+    "sample_no_match": [
+      "Art. 10a Abs. 1 UVG",
+      "Art. 8 Abs. 5 DSG",
+      "Art. 9 Abs. 5 DSG",
+      "Art. 26 ArGV 3",
+      "Art. 4 Abs. 4 DSG",
+      "Art. 4 Abs. 3 DSG",
+      "Art. 257 ZPO",
+      "Art. 257 Abs. 1 ZPO",
+      "Art. 5 Abs. 1 FIDLEG",
+      "Art. 1 LugÜ",
+      "Art. 2 Abs. 1 LugÜ",
+      "Art. 647 Abs. 1 ZG",
+      "Art. 47 EleG",
+      "Art. 46 Abs. 1 KVV",
+      "Art. 26 ArGV 3",
+      "Art. 4 Abs. 4 DSG",
+      "Art. 14 Abs. 4 DSG",
+      "Art. 11a Abs. 3 DSG",
+      "Art. 2 Abs. 1 LugÜ",
+      "Art. 49 Abs. 1 VVEA"
+    ]
+  },
+  "val": {
+    "total": 251,
+    "resolved": 251,
+    "resolved_pct": 100.0,
+    "strategy_breakdown": {
+      "exact": 251
+    },
+    "sample_no_match": []
+  },
+  "corpus_sizes": {
+    "laws": 175933,
+    "court": 1985178,
+    "combined": 2161111
+  }
+}

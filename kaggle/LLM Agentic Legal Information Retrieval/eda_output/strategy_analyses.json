@@ -1,0 +1,607 @@
+{
+  "regex_extraction": {
+    "val_total_gold": 251,
+    "val_regex_correct": 3,
+    "val_regex_recall_pct": 1.2,
+    "per_query": [
+      {
+        "qid": "val_001",
+        "gold": 42,
+        "regex_extracted": 3,
+        "regex_extracted_valid": 1,
+        "regex_correct": 1,
+        "regex_precision": 1.0,
+        "regex_recall_of_gold": 0.024
+      },
+      {
+        "qid": "val_002",
+        "gold": 36,
+        "regex_extracted": 2,
+        "regex_extracted_valid": 0,
+        "regex_correct": 0,
+        "regex_precision": 0.0,
+        "regex_recall_of_gold": 0.0
+      },
+      {
+        "qid": "val_003",
+        "gold": 47,
+        "regex_extracted": 0,
+        "regex_extracted_valid": 0,
+        "regex_correct": 0,
+        "regex_precision": 0.0,
+        "regex_recall_of_gold": 0.0
+      },
+      {
+        "qid": "val_004",
+        "gold": 10,
+        "regex_extracted": 0,
+        "regex_extracted_valid": 0,
+        "regex_correct": 0,
+        "regex_precision": 0.0,
+        "regex_recall_of_gold": 0.0
+      },
+      {
+        "qid": "val_005",
+        "gold": 11,
+        "regex_extracted": 0,
+        "regex_extracted_valid": 0,
+        "regex_correct": 0,
+        "regex_precision": 0.0,
+        "regex_recall_of_gold": 0.0
+      },
+      {
+        "qid": "val_006",
+        "gold": 18,
+        "regex_extracted": 5,
+        "regex_extracted_valid": 2,
+        "regex_correct": 2,
+        "regex_precision": 1.0,
+        "regex_recall_of_gold": 0.111
+      },
+      {
+        "qid": "val_007",
+        "gold": 19,
+        "regex_extracted": 3,
+        "regex_extracted_valid": 0,
+        "regex_correct": 0,
+        "regex_precision": 0.0,
+        "regex_recall_of_gold": 0.0
+      },
+      {
+        "qid": "val_008",
+        "gold": 29,
+        "regex_extracted": 0,
+        "regex_extracted_valid": 0,
+        "regex_correct": 0,
+        "regex_precision": 0.0,
+        "regex_recall_of_gold": 0.0
+      },
+      {
+        "qid": "val_009",
+        "gold": 14,
+        "regex_extracted": 0,
+        "regex_extracted_valid": 0,
+        "regex_correct": 0,
+        "regex_precision": 0.0,
+        "regex_recall_of_gold": 0.0
+      },
+      {
+        "qid": "val_010",
+        "gold": 25,
+        "regex_extracted": 0,
+        "regex_extracted_valid": 0,
+        "regex_correct": 0,
+        "regex_precision": 0.0,
+        "regex_recall_of_gold": 0.0
+      }
+    ]
+  },
+  "topic_canon_jaccard": [
+    {
+      "pair": [
+        "val_001",
+        "val_003"
+      ],
+      "jaccard": 0.203,
+      "intersection": 15,
+      "a_size": 42,
+      "b_size": 47,
+      "shared_examples": [
+        "Art. 382 Abs. 1 StPO",
+        "Art. 100 Abs. 1 BGG",
+        "Art. 390 Abs. 2 StPO",
+        "Art. 393 Abs. 1 StPO",
+        "Art. 135 Abs. 3 StPO",
+        "Art. 221 Abs. 1 StPO",
+        "Art. 135 Abs. 4 StPO",
+        "Art. 385 Abs. 1 StPO"
+      ]
+    },
+    {
+      "pair": [
+        "val_003",
+        "val_004"
+      ],
+      "jaccard": 0.075,
+      "intersection": 4,
+      "a_size": 47,
+      "b_size": 10,
+      "shared_examples": [
+        "Art. 100 Abs. 1 BGG",
+        "Art. 505 Abs. 1 ZGB",
+        "Art. 467 ZGB",
+        "BGE 131 III 601 E. 3.1"
+      ]
+    },
+    {
+      "pair": [
+        "val_003",
+        "val_008"
+      ],
+      "jaccard": 0.041,
+      "intersection": 3,
+      "a_size": 47,
+      "b_size": 29,
+      "shared_examples": [
+        "Art. 100 Abs. 1 BGG",
+        "Art. 29 Abs. 2 BV",
+        "Art. 428 Abs. 1 StPO"
+      ]
+    },
+    {
+      "pair": [
+        "val_001",
+        "val_008"
+      ],
+      "jaccard": 0.029,
+      "intersection": 2,
+      "a_size": 42,
+      "b_size": 29,
+      "shared_examples": [
+        "Art. 100 Abs. 1 BGG",
+        "Art. 428 Abs. 1 StPO"
+      ]
+    },
+    {
+      "pair": [
+        "val_005",
+        "val_009"
+      ],
+      "jaccard": 0.087,
+      "intersection": 2,
+      "a_size": 11,
+      "b_size": 14,
+      "shared_examples": [
+        "Art. 100 Abs. 1 BGG",
+        "Art. 285 Abs. 1 ZGB"
+      ]
+    },
+    {
+      "pair": [
+        "val_001",
+        "val_002"
+      ],
+      "jaccard": 0.013,
+      "intersection": 1,
+      "a_size": 42,
+      "b_size": 36,
+      "shared_examples": [
+        "Art. 100 Abs. 1 BGG"
+      ]
+    },
+    {
+      "pair": [
+        "val_001",
+        "val_004"
+      ],
+      "jaccard": 0.02,
+      "intersection": 1,
+      "a_size": 42,
+      "b_size": 10,
+      "shared_examples": [
+        "Art. 100 Abs. 1 BGG"
+      ]
+    },
+    {
+      "pair": [
+        "val_001",
+        "val_005"
+      ],
+      "jaccard": 0.019,
+      "intersection": 1,
+      "a_size": 42,
+      "b_size": 11,
+      "shared_examples": [
+        "Art. 100 Abs. 1 BGG"
+      ]
+    },
+    {
+      "pair": [
+        "val_001",
+        "val_006"
+      ],
+      "jaccard": 0.017,
+      "intersection": 1,
+      "a_size": 42,
+      "b_size": 18,
+      "shared_examples": [
+        "Art. 100 Abs. 1 BGG"
+      ]
+    },
+    {
+      "pair": [
+        "val_001",
+        "val_009"
+      ],
+      "jaccard": 0.018,
+      "intersection": 1,
+      "a_size": 42,
+      "b_size": 14,
+      "shared_examples": [
+        "Art. 100 Abs. 1 BGG"
+      ]
+    },
+    {
+      "pair": [
+        "val_001",
+        "val_010"
+      ],
+      "jaccard": 0.015,
+      "intersection": 1,
+      "a_size": 42,
+      "b_size": 25,
+      "shared_examples": [
+        "Art. 100 Abs. 1 BGG"
+      ]
+    },
+    {
+      "pair": [
+        "val_002",
+        "val_003"
+      ],
+      "jaccard": 0.012,
+      "intersection": 1,
+      "a_size": 36,
+      "b_size": 47,
+      "shared_examples": [
+        "Art. 100 Abs. 1 BGG"
+      ]
+    },
+    {
+      "pair": [
+        "val_002",
+        "val_004"
+      ],
+      "jaccard": 0.022,
+      "intersection": 1,
+      "a_size": 36,
+      "b_size": 10,
+      "shared_examples": [
+        "Art. 100 Abs. 1 BGG"
+      ]
+    },
+    {
+      "pair": [
+        "val_002",
+        "val_005"
+      ],
+      "jaccard": 0.022,
+      "intersection": 1,
+      "a_size": 36,
+      "b_size": 11,
+      "shared_examples": [
+        "Art. 100 Abs. 1 BGG"
+      ]
+    },
+    {
+      "pair": [
+        "val_002",
+        "val_006"
+      ],
+      "jaccard": 0.019,
+      "intersection": 1,
+      "a_size": 36,
+      "b_size": 18,
+      "shared_examples": [
+        "Art. 100 Abs. 1 BGG"
+      ]
+    },
+    {
+      "pair": [
+        "val_002",
+        "val_008"
+      ],
+      "jaccard": 0.016,
+      "intersection": 1,
+      "a_size": 36,
+      "b_size": 29,
+      "shared_examples": [
+        "Art. 100 Abs. 1 BGG"
+      ]
+    },
+    {
+      "pair": [
+        "val_002",
+        "val_009"
+      ],
+      "jaccard": 0.02,
+      "intersection": 1,
+      "a_size": 36,
+      "b_size": 14,
+      "shared_examples": [
+        "Art. 100 Abs. 1 BGG"
+      ]
+    },
+    {
+      "pair": [
+        "val_002",
+        "val_010"
+      ],
+      "jaccard": 0.017,
+      "intersection": 1,
+      "a_size": 36,
+      "b_size": 25,
+      "shared_examples": [
+        "Art. 100 Abs. 1 BGG"
+      ]
+    },
+    {
+      "pair": [
+        "val_003",
+        "val_005"
+      ],
+      "jaccard": 0.018,
+      "intersection": 1,
+      "a_size": 47,
+      "b_size": 11,
+      "shared_examples": [
+        "Art. 100 Abs. 1 BGG"
+      ]
+    },
+    {
+      "pair": [
+        "val_003",
+        "val_006"
+      ],
+      "jaccard": 0.016,
+      "intersection": 1,
+      "a_size": 47,
+      "b_size": 18,
+      "shared_examples": [
+        "Art. 100 Abs. 1 BGG"
+      ]
+    },
+    {
+      "pair": [
+        "val_003",
+        "val_007"
+      ],
+      "jaccard": 0.015,
+      "intersection": 1,
+      "a_size": 47,
+      "b_size": 19,
+      "shared_examples": [
+        "Art. 16 ZGB"
+      ]
+    },
+    {
+      "pair": [
+        "val_003",
+        "val_009"
+      ],
+      "jaccard": 0.017,
+      "intersection": 1,
+      "a_size": 47,
+      "b_size": 14,
+      "shared_examples": [
+        "Art. 100 Abs. 1 BGG"
+      ]
+    },
+    {
+      "pair": [
+        "val_003",
+        "val_010"
+      ],
+      "jaccard": 0.014,
+      "intersection": 1,
+      "a_size": 47,
+      "b_size": 25,
+      "shared_examples": [
+        "Art. 100 Abs. 1 BGG"
+      ]
+    },
+    {
+      "pair": [
+        "val_004",
+        "val_005"
+      ],
+      "jaccard": 0.05,
+      "intersection": 1,
+      "a_size": 10,
+      "b_size": 11,
+      "shared_examples": [
+        "Art. 100 Abs. 1 BGG"
+      ]
+    },
+    {
+      "pair": [
+        "val_004",
+        "val_006"
+      ],
+      "jaccard": 0.037,
+      "intersection": 1,
+      "a_size": 10,
+      "b_size": 18,
+      "shared_examples": [
+        "Art. 100 Abs. 1 BGG"
+      ]
+    },
+    {
+      "pair": [
+        "val_004",
+        "val_008"
+      ],
+      "jaccard": 0.026,
+      "intersection": 1,
+      "a_size": 10,
+      "b_size": 29,
+      "shared_examples": [
+        "Art. 100 Abs. 1 BGG"
+      ]
+    },
+    {
+      "pair": [
+        "val_004",
+        "val_009"
+      ],
+      "jaccard": 0.043,
+      "intersection": 1,
+      "a_size": 10,
+      "b_size": 14,
+      "shared_examples": [
+        "Art. 100 Abs. 1 BGG"
+      ]
+    },
+    {
+      "pair": [
+        "val_004",
+        "val_010"
+      ],
+      "jaccard": 0.029,
+      "intersection": 1,
+      "a_size": 10,
+      "b_size": 25,
+      "shared_examples": [
+        "Art. 100 Abs. 1 BGG"
+      ]
+    },
+    {
+      "pair": [
+        "val_005",
+        "val_006"
+      ],
+      "jaccard": 0.036,
+      "intersection": 1,
+      "a_size": 11,
+      "b_size": 18,
+      "shared_examples": [
+        "Art. 100 Abs. 1 BGG"
+      ]
+    },
+    {
+      "pair": [
+        "val_005",
+        "val_008"
+      ],
+      "jaccard": 0.026,
+      "intersection": 1,
+      "a_size": 11,
+      "b_size": 29,
+      "shared_examples": [
+        "Art. 100 Abs. 1 BGG"
+      ]
+    },
+    {
+      "pair": [
+        "val_005",
+        "val_010"
+      ],
+      "jaccard": 0.029,
+      "intersection": 1,
+      "a_size": 11,
+      "b_size": 25,
+      "shared_examples": [
+        "Art. 100 Abs. 1 BGG"
+      ]
+    },
+    {
+      "pair": [
+        "val_006",
+        "val_008"
+      ],
+      "jaccard": 0.022,
+      "intersection": 1,
+      "a_size": 18,
+      "b_size": 29,
+      "shared_examples": [
+        "Art. 100 Abs. 1 BGG"
+      ]
+    },
+    {
+      "pair": [
+        "val_006",
+        "val_009"
+      ],
+      "jaccard": 0.032,
+      "intersection": 1,
+      "a_size": 18,
+      "b_size": 14,
+      "shared_examples": [
+        "Art. 100 Abs. 1 BGG"
+      ]
+    },
+    {
+      "pair": [
+        "val_006",
+        "val_010"
+      ],
+      "jaccard": 0.024,
+      "intersection": 1,
+      "a_size": 18,
+      "b_size": 25,
+      "shared_examples": [
+        "Art. 100 Abs. 1 BGG"
+      ]
+    },
+    {
+      "pair": [
+        "val_008",
+        "val_009"
+      ],
+      "jaccard": 0.024,
+      "intersection": 1,
+      "a_size": 29,
+      "b_size": 14,
+      "shared_examples": [
+        "Art. 100 Abs. 1 BGG"
+      ]
+    },
+    {
+      "pair": [
+        "val_008",
+        "val_010"
+      ],
+      "jaccard": 0.019,
+      "intersection": 1,
+      "a_size": 29,
+      "b_size": 25,
+      "shared_examples": [
+        "Art. 100 Abs. 1 BGG"
+      ]
+    },
+    {
+      "pair": [
+        "val_009",
+        "val_010"
+      ],
+      "jaccard": 0.026,
+      "intersection": 1,
+      "a_size": 14,
+      "b_size": 25,
+      "shared_examples": [
+        "Art. 100 Abs. 1 BGG"
+      ]
+    }
+  ],
+  "court_corpus": {
+    "total_rows": 1985178,
+    "bge_rows": 91639,
+    "bger_rows": 1589895,
+    "unique_judgments": 140901,
+    "avg_e_per_judgment": 11.934152348102568
+  },
+  "train_mode_split": {
+    "mode_a_short": 1118,
+    "mode_b_bge_dump": 21
+  }
+}

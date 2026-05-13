@@ -1,0 +1,2613 @@
+{
+  "primary": {
+    "131.221": "Referendum",
+    "172.220.111.342.1": "Armasuisse",
+    "360.4": "CCPD",
+    "362.0": "FADO",
+    "412.101.220.01": "EFZ",
+    "412.101.220.02": "EBA",
+    "412.101.220.06": "EFZ",
+    "412.101.220.07": "EBA",
+    "412.101.220.08": "EBA",
+    "412.101.220.10": "EFZ",
+    "412.101.220.15": "EFZ",
+    "412.101.220.16": "EFZ",
+    "412.101.220.17": "EFZ",
+    "412.101.220.18": "EFZ",
+    "412.101.220.19": "EBA",
+    "412.101.220.22": "EBA",
+    "412.101.220.23": "EBA",
+    "412.101.220.26": "EFZ",
+    "412.101.220.33": "EFZ",
+    "412.101.220.39": "EFZ",
+    "412.101.220.40": "EFZ",
+    "412.101.220.42": "EFZ",
+    "412.101.220.43": "EBA",
+    "412.101.220.44": "EFZ",
+    "412.101.220.45": "EFZ",
+    "412.101.220.46": "EFZ",
+    "412.101.220.47": "EFZ",
+    "412.101.220.48": "EFZ",
+    "412.101.220.49": "EBA",
+    "412.101.220.51": "EFZ",
+    "412.101.220.56": "EFZ",
+    "412.101.220.58": "EFZ",
+    "412.101.220.59": "EBA",
+    "412.101.220.60": "EFZ",
+    "412.101.220.61": "EBA",
+    "412.101.220.63": "EFZ",
+    "412.101.220.65": "EFZ",
+    "412.101.220.66": "EBA",
+    "412.101.220.70": "EFZ",
+    "412.101.220.71": "EFZ",
+    "412.101.220.72": "EFZ",
+    "412.101.220.73": "EFZ",
+    "412.101.220.74": "EFZ",
+    "412.101.220.75": "EFZ",
+    "412.101.220.76": "EBA",
+    "412.101.220.78": "EBA",
+    "412.101.220.80": "EFZ",
+    "412.101.220.81": "EBA",
+    "412.101.220.84": "EFZ",
+    "412.101.220.85": "EFZ",
+    "412.101.220.86": "EFZ",
+    "412.101.220.87": "EBA",
+    "412.101.220.89": "EFZ",
+    "412.101.220.90": "EFZ",
+    "412.101.220.91": "EFZ",
+    "412.101.220.92": "EFZ",
+    "412.101.220.93": "EFZ",
+    "412.101.220.94": "EFZ",
+    "412.101.220.95": "EBA",
+    "412.101.220.96": "EFZ",
+    "412.101.220.97": "EBA",
+    "412.101.220.98": "EFZ",
+    "412.101.220.99": "EFZ",
+    "412.101.221.01": "EFZ",
+    "412.101.221.02": "EFZ",
+    "412.101.221.03": "EFZ",
+    "412.101.221.04": "EFZ",
+    "412.101.221.05": "EFZ",
+    "412.101.221.06": "EFZ",
+    "412.101.221.09": "EFZ",
+    "412.101.221.10": "EFZ",
+    "412.101.221.14": "EFZ",
+    "412.101.221.17": "EFZ",
+    "412.101.221.18": "EFZ",
+    "412.101.221.20": "EBA",
+    "412.101.221.22": "EFZ",
+    "412.101.221.24": "EBA",
+    "412.101.221.25": "EBA",
+    "412.101.221.27": "EFZ",
+    "412.101.221.29": "EFZ",
+    "412.101.221.30": "EFZ",
+    "412.101.221.31": "EBA",
+    "412.101.221.33": "EBA",
+    "412.101.221.35": "EFZ",
+    "412.101.221.36": "EFZ",
+    "412.101.221.39": "EBA",
+    "412.101.221.40": "EFZ",
+    "412.101.221.43": "EFZ",
+    "412.101.221.44": "EFZ",
+    "412.101.221.45": "EFZ",
+    "412.101.221.48": "EFZ",
+    "412.101.221.50": "EFZ",
+    "412.101.221.51": "EBA",
+    "412.101.221.52": "EFZ",
+    "412.101.221.53": "EFZ",
+    "412.101.221.55": "EBA",
+    "412.101.221.57": "EBA",
+    "412.101.221.58": "EFZ",
+    "412.101.221.60": "EFZ",
+    "412.101.221.62": "EFZ",
+    "412.101.221.63": "EFZ",
+    "412.101.221.64": "EFZ",
+    "412.101.221.65": "EFZ",
+    "412.101.221.66": "EFZ",
+    "412.101.221.68": "EBA",
+    "412.101.221.72": "EFZ",
+    "412.101.221.74": "EFZ",
+    "412.101.221.75": "EBA",
+    "412.101.221.78": "EFZ",
+    "412.101.221.79": "EFZ",
+    "412.101.221.81": "EFZ",
+    "412.101.221.82": "EFZ",
+    "412.101.221.83": "EFZ",
+    "412.101.221.84": "EFZ",
+    "412.101.221.87": "EBA",
+    "412.101.221.88": "EBA",
+    "412.101.221.91": "EFZ",
+    "412.101.221.95": "EFZ",
+    "412.101.221.96": "EFZ",
+    "412.101.221.98": "EFZ",
+    "412.101.221.99": "EBA",
+    "412.101.222.00": "EFZ",
+    "412.101.222.02": "EBA",
+    "412.101.222.04": "EFZ",
+    "412.101.222.05": "EBA",
+    "412.101.222.06": "EBA",
+    "412.101.222.08": "EBA",
+    "412.101.222.09": "EFZ",
+    "412.101.222.10": "EBA",
+    "412.101.222.12": "EBA",
+    "412.101.222.13": "EFZ",
+    "412.101.222.18": "EFZ",
+    "412.101.222.22": "EFZ",
+    "412.101.222.24": "EFZ",
+    "412.101.222.30": "EFZ",
+    "412.101.222.31": "EBA",
+    "412.101.222.35": "EFZ",
+    "412.101.222.36": "EFZ",
+    "412.101.222.37": "EFZ",
+    "514.10": "VPAA",
+    "741.618": "ASOR",
+    "748.127.7": "EU",
+    "748.131.2": "Slots",
+    "811.117.2": "MEBEKO",
+    "817.022.12": "Met",
+    "818.101.126": "VMüK",
+    "861": "KBFHG",
+    "935.121.41": "SGH",
+    "941.202": "SI",
+    "941.213": "NSWV",
+    "941.214": "SWV",
+    "943.11": "RGV",
+    "AAMV": "AAMV",
+    "AEFV": "AEFV",
+    "AFZFG": "AFZFG",
+    "AFZFV": "AFZFV",
+    "AHVG": "AHVG",
+    "AHVV": "AHVV",
+    "AIAG": "AIAG",
+    "AIAV": "AIAV",
+    "AIG": "EU",
+    "ALBAG": "ALBAG",
+    "ALBAV": "ALBAV",
+    "AlkV": "AlkV",
+    "AllgGebV": "AllgGebV",
+    "ARPV": "ARPV",
+    "AStG": "AStG",
+    "AStV": "AStV",
+    "ASV": "ASV",
+    "AsylG": "AsylG",
+    "1": "EU",
+    "ATSG": "ATSG",
+    "ATSV": "ATSV",
+    "AVFV": "AVFV",
+    "BetmPV": "BetmPV",
+    "BewG": "BewG",
+    "BewV": "BewV",
+    "BGBB": "BGBB",
+    "BGCITES": "BGCITES",
+    "BGerR": "BGerR",
+    "BGF": "BGF",
+    "BGIAA": "BGIAA",
+    "BGLE": "BGLE",
+    "BGMD": "BGMD",
+    "BGMK": "BGMK",
+    "BGRB": "BGRB",
+    "BGST": "BGST",
+    "BiGV": "BiGV",
+    "BIZMB": "BIZMB",
+    "BöB": "BöB",
+    "BPDV": "BPDV",
+    "BPG": "BPG",
+    "BPI": "BPI",
+    "BPR": "BPR",
+    "BPS": "BPS",
+    "BPV": "BPV",
+    "BSG": "BSG",
+    "BStatG": "BStatG",
+    "BStKR": "BStKR",
+    "BTrV": "BTrV",
+    "BÜPF": "BÜPF",
+    "BURV": "BURV",
+    "BVG": "BVG",
+    "BVVG": "BVVG",
+    "BWIS": "BWIS",
+    "DBG": "DBG",
+    "EBG": "EBG",
+    "EESV": "EESV",
+    "EFZ": "EFZ",
+    "EIMG": "EIMG",
+    "EIMV": "EIMV",
+    "ELG": "ELG",
+    "ELV": "ELV",
+    "EMBAG": "EMBAG",
+    "EMBAV": "EMBAV",
+    "EmGvV": "EmGvV",
+    "EMmV": "EMmV",
+    "EnG": "EnG",
+    "ENSIG": "ENSIG",
+    "ENSIV": "ENSIV",
+    "EntG": "EntG",
+    "EntsV": "EntsV",
+    "EnV": "EnV",
+    "EÖBV": "EÖBV",
+    "EOV": "EOV",
+    "EPDFV": "EPDFV",
+    "EPDG": "EPDG",
+    "EPDV": "EPDV",
+    "ETrV": "ETrV",
+    "FAV": "FAV",
+    "FDV": "FDV",
+    "FHV": "FHV",
+    "FIFG": "FIFG",
+    "FiFV": "FiFV",
+    "FiLaG": "FiLaG",
+    "FiLaV": "FiLaV",
+    "FIPBV": "FIPBV",
+    "FiREG": "FiREG",
+    "FiV": "FiV",
+    "FKINV": "FKINV",
+    "FLG": "FLG",
+    "FLV": "FLV",
+    "FMedV": "FMedV",
+    "FMG": "FMG",
+    "FOrgV": "FOrgV",
+    "FPV": "FPV",
+    "FQIV": "FQIV",
+    "FWG": "FWG",
+    "FWV": "FWV",
+    "GBV": "GBV",
+    "GeoNV": "GeoNV",
+    "GLPV": "GLPV",
+    "GRN": "GRN",
+    "GRS": "GRS",
+    "GSchV": "GSchV",
+    "GUMG": "GUMG",
+    "GUMV": "GUMV",
+    "HasLV": "HasLV",
+    "HKSV": "HKSV",
+    "HRegV": "HRegV",
+    "HVA": "HVA",
+    "HVI": "HVI",
+    "HVUV": "HVUV",
+    "IAMV": "IAMV",
+    "IBSG": "IBSG",
+    "IBSV": "IBSV",
+    "IBTV": "IBTV",
+    "IFEG": "IFEG",
+    "IGEG": "IGEG",
+    "InvV": "InvV",
+    "IPFiV": "IPFiV",
+    "IPRG": "IPRG",
+    "IQG": "IQG",
+    "ISLV": "ISLV",
+    "ISUV": "ISUV",
+    "IvDV": "IvDV",
+    "IVG": "IVG",
+    "IVV": "IVV",
+    "IVZV": "IVZV",
+    "JSFVG": "JSFVG",
+    "JSFVV": "JSFVV",
+    "KBFHV": "KBFHV",
+    "KEG": "KEG",
+    "KEV": "KEV",
+    "KGSG": "KGSG",
+    "KGSV": "KGSV",
+    "KGVV": "KGVV",
+    "KHG": "KHG",
+    "KHV": "KHV",
+    "KKG": "KKG",
+    "KlG": "KlG",
+    "KOBV": "KOBV",
+    "KOV": "KOV",
+    "KoVo": "KoVo",
+    "KPFV": "KPFV",
+    "KV": "KV",
+    "KVG": "KVG",
+    "KVV": "KVV",
+    "LeV": "Bahnen",
+    "LFG": "Slots",
+    "LGBV": "LGBV",
+    "LGV": "LGV",
+    "LIV": "LIV",
+    "LMmV": "LMmV",
+    "LMVV": "LMVV",
+    "LPG": "LPG",
+    "LRV": "LRV",
+    "LSMV": "LSMV",
+    "LSV": "LSV",
+    "LTrV": "LTrV",
+    "MAkkV": "MAkkV",
+    "MCAV": "MCAV",
+    "MepV": "MepV",
+    "MeQV": "MeQV",
+    "MessMV": "MessMV",
+    "MetG": "MetG",
+    "MetV": "MetV",
+    "MGwV": "MGwV",
+    "MIG": "MIG",
+    "MinLV": "MinLV",
+    "MinöStG": "MinöStG",
+    "MinöStV": "MinöStV",
+    "MinVG": "MinVG",
+    "MinVV": "MinVV",
+    "MiPV": "MiPV",
+    "MIV": "MIV",
+    "MJV": "MJV",
+    "MNKPV": "MNKPV",
+    "MSchV": "MSchV",
+    "MStG": "MStG",
+    "MStP": "MStP",
+    "MStV": "MStV",
+    "MünzV": "MünzV",
+    "MVG": "MVG",
+    "MVV": "MVV",
+    "MWSTV": "MWSTV",
+    "NAFG": "NAFG",
+    "NARV": "NARV",
+    "NEV": "NEV",
+    "NHG": "NHG",
+    "NHV": "NHV",
+    "NISSG": "NISSG",
+    "NISV": "NISV",
+    "NSG": "NSG",
+    "NSV": "NSV",
+    "NZV": "NZV",
+    "OBG": "OBG",
+    "OBV": "OBV",
+    "ÖREBKV": "ÖREBKV",
+    "PAV": "PAV",
+    "PAVV": "PAVV",
+    "PfG": "PfG",
+    "PfV": "PfV",
+    "PG": "PG",
+    "PGRELV": "PGRELV",
+    "PrSG": "PrSG",
+    "PrSV": "PrSV",
+    "PSMV": "PSMV",
+    "PüG": "PüG",
+    "PVBger": "PVBger",
+    "PVFMH": "PVFMH",
+    "PVGer": "PVGer",
+    "PVSPA": "PVSPA",
+    "QuNaV": "QuNaV",
+    "RDV": "RDV",
+    "ReRBGer": "ReRBGer",
+    "RHV": "RHV",
+    "RPV": "RPV",
+    "RSD": "RSD",
+    "RTVG": "RTVG",
+    "RTVV": "RTVV",
+    "RVOG": "RVOG",
+    "RVOV": "RVOV",
+    "SAMV": "SAMV",
+    "SaV": "SaV",
+    "SBBG": "SBBG",
+    "SBMV": "SBMV",
+    "SchKG": "SchKG",
+    "SDR": "SDR",
+    "SeilV": "VI",
+    "SFV": "SFV",
+    "SGV": "SGV",
+    "SIRG": "SIRG",
+    "SnAV": "SnAV",
+    "SprstV": "SprstV",
+    "SRVG": "SRVG",
+    "SSV": "SSV",
+    "StADG": "StADG",
+    "StAV": "StAV",
+    "STEBV": "STEBV",
+    "StG": "StG",
+    "StMmV": "StMmV",
+    "StromVV": "StromVV",
+    "StSG": "StSG",
+    "StSV": "StSV",
+    "STUG": "STUG",
+    "STUV": "STUV",
+    "StV": "StV",
+    "STVG": "STVG",
+    "SVG": "SVG",
+    "TBDV": "TBDV",
+    "TEVG": "TEVG",
+    "TGBV": "TGBV",
+    "TGDV": "TGDV",
+    "TGV": "TGV",
+    "THG": "THG",
+    "TMmV": "TMmV",
+    "TPFV": "TPFV",
+    "TSchG": "TSchG",
+    "TSchV": "TSchV",
+    "TSG": "TSG",
+    "TSV": "TSV",
+    "TVSV": "TVSV",
+    "UGüTG": "UGüTG",
+    "UIDG": "UIDG",
+    "UIDV": "UIDV",
+    "ÜLG": "ÜLG",
+    "ÜLV": "ÜLV",
+    "UraM": "UraM",
+    "UVG": "UVG",
+    "UVPV": "UVPV",
+    "UVV": "UVV",
+    "UWG": "UWG",
+    "VABFP": "VABFP",
+    "VABK": "VABK",
+    "VAböV": "VAböV",
+    "VABUA": "VABUA",
+    "VAEW": "VAEW",
+    "VAF": "VAF",
+    "VAI": "VAI",
+    "VAK": "VAK",
+    "VAMF": "VAMF",
+    "VAmFD": "VAmFD",
+    "VAMV": "VAMV",
+    "VAN": "VAN",
+    "VAND": "VAND",
+    "VAPF": "VAPF",
+    "VAPK": "VAPK",
+    "VASA": "VASA",
+    "VASm": "VASm",
+    "VASR": "VASR",
+    "VATPE": "VATPE",
+    "VATV": "VATV",
+    "VAU": "VAU",
+    "VAusb": "VAusb",
+    "VAV": "VAV",
+    "VBB": "VBB",
+    "VBBo": "VBBo",
+    "VBGF": "VBGF",
+    "VBLN": "VBLN",
+    "VBNIB": "VBNIB",
+    "VBO": "VBO",
+    "VböV": "VböV",
+    "VBPV": "VBPV",
+    "VBRK": "VBRK",
+    "VBSTB": "VBSTB",
+    "VBSV": "VBSV",
+    "VBVA": "VBVA",
+    "VBVV": "VBVV",
+    "VBWK": "VBWK",
+    "VCITES": "VCITES",
+    "VDA": "VDA",
+    "VDPS": "VDPS",
+    "VDSZ": "VDSZ",
+    "VDZV": "VDZV",
+    "VEAF": "VEAF",
+    "VEAGOG": "VEAGOG",
+    "VEBMP": "VEBMP",
+    "VEJ": "VEJ",
+    "VEKF": "VEKF",
+    "VEL": "VEL",
+    "VEleS": "VEleS",
+    "VEMV": "VEMV",
+    "VEMZ": "VEMZ",
+    "VETHBK": "VETHBK",
+    "VEV": "VEV",
+    "VeVA": "VeVA",
+    "VFAI": "VFAI",
+    "VFAL": "VFAL",
+    "VFAV": "VFAV",
+    "VFBF": "VFBF",
+    "VFD": "VFD",
+    "VFlaW": "VFlaW",
+    "VFRR": "VFRR",
+    "VFSD": "VFSD",
+    "VFV": "VFV",
+    "VGD": "VGD",
+    "VGeK": "VGeK",
+    "VGKE": "VGKE",
+    "VGR": "VGR",
+    "VGSEB": "VGSEB",
+    "VGV": "VGV",
+    "VGVL": "VGVL",
+    "VGWR": "VGWR",
+    "VHBT": "VHBT",
+    "VHIS": "VHIS",
+    "VHyMP": "VHyMP",
+    "VHyPrP": "VHyPrP",
+    "VHyS": "VHyS",
+    "VID": "VID",
+    "VIL": "VIL",
+    "VILB": "VILB",
+    "VIM": "VIM",
+    "VIMK": "VIMK",
+    "VIntA": "VIntA",
+    "VISOS": "VISOS",
+    "VITH": "VITH",
+    "VIVS": "VIVS",
+    "ViZG": "ViZG",
+    "VIZMB": "VIZMB",
+    "VJAR-FSTD": "EU",
+    "VKA": "VKA",
+    "VKKG": "VKKG",
+    "VKKL": "VKKL",
+    "VKKP": "VKKP",
+    "VKL": "VKL",
+    "VKNS": "VKNS",
+    "VKos": "VKos",
+    "VKOVA": "VKOVA",
+    "VKSD": "VKSD",
+    "VKSWk": "VKSWk",
+    "VKVöV": "VKVöV",
+    "VKZ": "VKZ",
+    "VLBE": "VLBE",
+    "VLE": "VLE",
+    "VLF": "VLF",
+    "VLHb": "VLHb",
+    "VLIb": "VLIb",
+    "VLIp": "VLIp",
+    "VLK": "VLK",
+    "VLKA": "VLKA",
+    "VLL": "VLL",
+    "VLpH": "VLpH",
+    "VLtH": "VLtH",
+    "VMAP": "VMAP",
+    "VMBM": "VMBM",
+    "VMDP": "VMDP",
+    "VMILAK": "VMILAK",
+    "VmKI": "VmKI",
+    "VMob": "VMob",
+    "VMS": "VMS",
+    "VMSch": "VMSch",
+    "VMSV": "VMSV",
+    "VMWG": "VMWG",
+    "VNEF": "VNEF",
+    "VNEK": "VNEK",
+    "VNem": "VNem",
+    "VNF": "VNF",
+    "VöB": "VöB",
+    "VOCV": "VOCV",
+    "VOD": "VOD",
+    "VOEW": "VOEW",
+    "VOGW": "VOGW",
+    "VORA": "VORA",
+    "VPA": "VPA",
+    "VPABP": "VPABP",
+    "VPB": "VPB",
+    "VPeA": "VPeA",
+    "VPEV": "VPEV",
+    "VPG": "VPG",
+    "VPGA": "VPGA",
+    "VPGS": "VPGS",
+    "VPiB": "VPiB",
+    "VPOB": "VPOB",
+    "VPofi": "VPofi",
+    "VPOG": "VPOG",
+    "VPR": "VPR",
+    "VPRG": "VPRG",
+    "VPRH": "VPRH",
+    "VPrP": "VPrP",
+    "VPS": "VPS",
+    "VPSP": "VPSP",
+    "VPVE": "VPVE",
+    "VPVK": "VPVK",
+    "VRA": "VRA",
+    "VRAB": "VRAB",
+    "VREG": "VREG",
+    "VRKD": "VRKD",
+    "VRP": "VRP",
+    "VRSL": "VRSL",
+    "VRV": "VRV",
+    "VSA": "VSA",
+    "VSB": "VSB",
+    "VSBN": "VSBN",
+    "VSFK": "VSFK",
+    "VSFS": "VSFS",
+    "VSL": "VSL",
+    "VSMS": "VSMS",
+    "VSoTr": "VSoTr",
+    "VSPA": "VSPA",
+    "VSpoFöP": "VSpoFöP",
+    "VSPS": "VSPS",
+    "VSR": "VSR",
+    "VSRL": "VSRL",
+    "VST": "VST",
+    "VStrR": "VStrR",
+    "VSV": "VSV",
+    "VSVB": "VSVB",
+    "VSZV": "VSZV",
+    "VTE": "VTE",
+    "VTM": "VTM",
+    "VTNP": "VTNP",
+    "VTS": "VTS",
+    "VTSchS": "VTSchS",
+    "VtVtH": "VtVtH",
+    "VUB": "VUB",
+    "VUFB": "VUFB",
+    "VUKBK": "VUKBK",
+    "VUM": "VUM",
+    "VÜPF": "VÜPF",
+    "VVA": "VVA",
+    "VVAG": "VVAG",
+    "VVAwG": "VVAwG",
+    "VVE": "VVE",
+    "VVK": "VVK",
+    "VVMH": "VVMH",
+    "VVNF": "VVNF",
+    "VVV": "VVV",
+    "VVWAL": "VVWAL",
+    "VWEG": "VWEG",
+    "VWEV": "VWEV",
+    "VWL": "VWL",
+    "VWLV": "VWLV",
+    "VZAE": "VZAE",
+    "VZG": "VZG",
+    "VZSchB": "VZSchB",
+    "VZVM": "VZVM",
+    "WeBiG": "WeBiG",
+    "WeBiV": "WeBiV",
+    "WEFV": "WEFV",
+    "WEG": "WEG",
+    "WPEG": "WPEG",
+    "WPEV": "WPEV",
+    "WZG": "WZG",
+    "WZVV": "WZVV",
+    "ZDUeV": "ZDUeV",
+    "ZEBG": "ZEBG",
+    "ZentG": "ZentG",
+    "ZeugSG": "ZeugSG",
+    "ZeugSV": "ZeugSV",
+    "ZG": "ZG",
+    "ZISG": "ZISG",
+    "ZMessV": "ZMessV",
+    "ZSTEBV": "ZSTEBV",
+    "ZStGV": "ZStGV",
+    "ZStV": "ZStV",
+    "ZTG": "ZTG",
+    "ZV": "ZV",
+    "ZWV": "ZWV"
+  },
+  "alternatives": {
+    "131.221": [
+      "Referendum"
+    ],
+    "172.220.111.342.1": [
+      "Armasuisse"
+    ],
+    "360.4": [
+      "CCPD"
+    ],
+    "362.0": [
+      "FADO"
+    ],
+    "412.101.220.01": [
+      "EFZ"
+    ],
+    "412.101.220.02": [
+      "EBA"
+    ],
+    "412.101.220.06": [
+      "EFZ"
+    ],
+    "412.101.220.07": [
+      "EBA"
+    ],
+    "412.101.220.08": [
+      "EBA"
+    ],
+    "412.101.220.10": [
+      "EFZ"
+    ],
+    "412.101.220.15": [
+      "EFZ"
+    ],
+    "412.101.220.16": [
+      "EFZ"
+    ],
+    "412.101.220.17": [
+      "EFZ"
+    ],
+    "412.101.220.18": [
+      "EFZ"
+    ],
+    "412.101.220.19": [
+      "EBA"
+    ],
+    "412.101.220.22": [
+      "EBA"
+    ],
+    "412.101.220.23": [
+      "EBA"
+    ],
+    "412.101.220.26": [
+      "EFZ"
+    ],
+    "412.101.220.33": [
+      "EFZ"
+    ],
+    "412.101.220.39": [
+      "EFZ"
+    ],
+    "412.101.220.40": [
+      "EFZ"
+    ],
+    "412.101.220.42": [
+      "EFZ"
+    ],
+    "412.101.220.43": [
+      "EBA"
+    ],
+    "412.101.220.44": [
+      "EFZ"
+    ],
+    "412.101.220.45": [
+      "EFZ"
+    ],
+    "412.101.220.46": [
+      "EFZ"
+    ],
+    "412.101.220.47": [
+      "EFZ"
+    ],
+    "412.101.220.48": [
+      "EFZ"
+    ],
+    "412.101.220.49": [
+      "EBA"
+    ],
+    "412.101.220.51": [
+      "EFZ"
+    ],
+    "412.101.220.56": [
+      "EFZ"
+    ],
+    "412.101.220.58": [
+      "EFZ"
+    ],
+    "412.101.220.59": [
+      "EBA"
+    ],
+    "412.101.220.60": [
+      "EFZ"
+    ],
+    "412.101.220.61": [
+      "EBA"
+    ],
+    "412.101.220.63": [
+      "EFZ"
+    ],
+    "412.101.220.65": [
+      "EFZ"
+    ],
+    "412.101.220.66": [
+      "EBA"
+    ],
+    "412.101.220.70": [
+      "EFZ"
+    ],
+    "412.101.220.71": [
+      "EFZ"
+    ],
+    "412.101.220.72": [
+      "EFZ"
+    ],
+    "412.101.220.73": [
+      "EFZ"
+    ],
+    "412.101.220.74": [
+      "EFZ"
+    ],
+    "412.101.220.75": [
+      "EFZ"
+    ],
+    "412.101.220.76": [
+      "EBA"
+    ],
+    "412.101.220.78": [
+      "EBA"
+    ],
+    "412.101.220.80": [
+      "EFZ"
+    ],
+    "412.101.220.81": [
+      "EBA"
+    ],
+    "412.101.220.84": [
+      "EFZ"
+    ],
+    "412.101.220.85": [
+      "EFZ"
+    ],
+    "412.101.220.86": [
+      "EFZ"
+    ],
+    "412.101.220.87": [
+      "EBA"
+    ],
+    "412.101.220.89": [
+      "EFZ"
+    ],
+    "412.101.220.90": [
+      "EFZ"
+    ],
+    "412.101.220.91": [
+      "EFZ"
+    ],
+    "412.101.220.92": [
+      "EFZ"
+    ],
+    "412.101.220.93": [
+      "EFZ"
+    ],
+    "412.101.220.94": [
+      "EFZ"
+    ],
+    "412.101.220.95": [
+      "EBA"
+    ],
+    "412.101.220.96": [
+      "EFZ"
+    ],
+    "412.101.220.97": [
+      "EBA"
+    ],
+    "412.101.220.98": [
+      "EFZ"
+    ],
+    "412.101.220.99": [
+      "EFZ"
+    ],
+    "412.101.221.01": [
+      "EFZ"
+    ],
+    "412.101.221.02": [
+      "EFZ"
+    ],
+    "412.101.221.03": [
+      "EFZ"
+    ],
+    "412.101.221.04": [
+      "EFZ"
+    ],
+    "412.101.221.05": [
+      "EFZ"
+    ],
+    "412.101.221.06": [
+      "EFZ"
+    ],
+    "412.101.221.09": [
+      "EFZ"
+    ],
+    "412.101.221.10": [
+      "EFZ"
+    ],
+    "412.101.221.14": [
+      "EFZ"
+    ],
+    "412.101.221.17": [
+      "EFZ"
+    ],
+    "412.101.221.18": [
+      "EFZ"
+    ],
+    "412.101.221.20": [
+      "EBA"
+    ],
+    "412.101.221.22": [
+      "EFZ"
+    ],
+    "412.101.221.24": [
+      "EBA"
+    ],
+    "412.101.221.25": [
+      "EBA"
+    ],
+    "412.101.221.27": [
+      "EFZ"
+    ],
+    "412.101.221.29": [
+      "EFZ"
+    ],
+    "412.101.221.30": [
+      "EFZ"
+    ],
+    "412.101.221.31": [
+      "EBA"
+    ],
+    "412.101.221.33": [
+      "EBA"
+    ],
+    "412.101.221.35": [
+      "EFZ"
+    ],
+    "412.101.221.36": [
+      "EFZ"
+    ],
+    "412.101.221.39": [
+      "EBA"
+    ],
+    "412.101.221.40": [
+      "EFZ"
+    ],
+    "412.101.221.43": [
+      "EFZ"
+    ],
+    "412.101.221.44": [
+      "EFZ"
+    ],
+    "412.101.221.45": [
+      "EFZ"
+    ],
+    "412.101.221.48": [
+      "EFZ"
+    ],
+    "412.101.221.50": [
+      "EFZ"
+    ],
+    "412.101.221.51": [
+      "EBA"
+    ],
+    "412.101.221.52": [
+      "EFZ"
+    ],
+    "412.101.221.53": [
+      "EFZ"
+    ],
+    "412.101.221.55": [
+      "EBA"
+    ],
+    "412.101.221.57": [
+      "EBA"
+    ],
+    "412.101.221.58": [
+      "EFZ"
+    ],
+    "412.101.221.60": [
+      "EFZ"
+    ],
+    "412.101.221.62": [
+      "EFZ"
+    ],
+    "412.101.221.63": [
+      "EFZ"
+    ],
+    "412.101.221.64": [
+      "EFZ"
+    ],
+    "412.101.221.65": [
+      "EFZ"
+    ],
+    "412.101.221.66": [
+      "EFZ"
+    ],
+    "412.101.221.68": [
+      "EBA"
+    ],
+    "412.101.221.72": [
+      "EFZ"
+    ],
+    "412.101.221.74": [
+      "EFZ"
+    ],
+    "412.101.221.75": [
+      "EBA"
+    ],
+    "412.101.221.78": [
+      "EFZ"
+    ],
+    "412.101.221.79": [
+      "EFZ"
+    ],
+    "412.101.221.81": [
+      "EFZ"
+    ],
+    "412.101.221.82": [
+      "EFZ"
+    ],
+    "412.101.221.83": [
+      "EFZ"
+    ],
+    "412.101.221.84": [
+      "EFZ"
+    ],
+    "412.101.221.87": [
+      "EBA"
+    ],
+    "412.101.221.88": [
+      "EBA"
+    ],
+    "412.101.221.91": [
+      "EFZ"
+    ],
+    "412.101.221.95": [
+      "EFZ"
+    ],
+    "412.101.221.96": [
+      "EFZ"
+    ],
+    "412.101.221.98": [
+      "EFZ"
+    ],
+    "412.101.221.99": [
+      "EBA"
+    ],
+    "412.101.222.00": [
+      "EFZ"
+    ],
+    "412.101.222.02": [
+      "EBA"
+    ],
+    "412.101.222.04": [
+      "EFZ"
+    ],
+    "412.101.222.05": [
+      "EBA"
+    ],
+    "412.101.222.06": [
+      "EBA"
+    ],
+    "412.101.222.08": [
+      "EBA"
+    ],
+    "412.101.222.09": [
+      "EFZ"
+    ],
+    "412.101.222.10": [
+      "EBA"
+    ],
+    "412.101.222.12": [
+      "EBA"
+    ],
+    "412.101.222.13": [
+      "EFZ"
+    ],
+    "412.101.222.18": [
+      "EFZ"
+    ],
+    "412.101.222.22": [
+      "EFZ"
+    ],
+    "412.101.222.24": [
+      "EFZ"
+    ],
+    "412.101.222.30": [
+      "EFZ"
+    ],
+    "412.101.222.31": [
+      "EBA"
+    ],
+    "412.101.222.35": [
+      "EFZ"
+    ],
+    "412.101.222.36": [
+      "EFZ"
+    ],
+    "412.101.222.37": [
+      "EFZ"
+    ],
+    "514.10": [
+      "VPAA"
+    ],
+    "741.618": [
+      "ASOR"
+    ],
+    "748.127.7": [
+      "EU"
+    ],
+    "748.131.2": [
+      "Slots"
+    ],
+    "811.117.2": [
+      "MEBEKO"
+    ],
+    "817.022.12": [
+      "Met"
+    ],
+    "818.101.126": [
+      "VMüK"
+    ],
+    "861": [
+      "KBFHG"
+    ],
+    "935.121.41": [
+      "SGH"
+    ],
+    "941.202": [
+      "SI"
+    ],
+    "941.213": [
+      "NSWV"
+    ],
+    "941.214": [
+      "SWV"
+    ],
+    "943.11": [
+      "RGV"
+    ],
+    "AAMV": [
+      "AAMV"
+    ],
+    "AEFV": [
+      "AEFV"
+    ],
+    "AFZFG": [
+      "AFZFG"
+    ],
+    "AFZFV": [
+      "AFZFV"
+    ],
+    "AHVG": [
+      "AHVG"
+    ],
+    "AHVV": [
+      "AHVV",
+      "ZAS"
+    ],
+    "AIAG": [
+      "AIAG"
+    ],
+    "AIAV": [
+      "AIAV"
+    ],
+    "AIG": [
+      "EU",
+      "EG"
+    ],
+    "ALBAG": [
+      "ALBAG"
+    ],
+    "ALBAV": [
+      "ALBAV"
+    ],
+    "AlkV": [
+      "AlkV"
+    ],
+    "AllgGebV": [
+      "AllgGebV"
+    ],
+    "ARPV": [
+      "ARPV"
+    ],
+    "AStG": [
+      "AStG"
+    ],
+    "AStV": [
+      "AStV"
+    ],
+    "ASV": [
+      "ASV"
+    ],
+    "AsylG": [
+      "AsylG"
+    ],
+    "1": [
+      "EU"
+    ],
+    "ATSG": [
+      "ATSG"
+    ],
+    "ATSV": [
+      "ATSV"
+    ],
+    "AVFV": [
+      "AVFV"
+    ],
+    "BetmPV": [
+      "BetmPV"
+    ],
+    "BewG": [
+      "BewG"
+    ],
+    "BewV": [
+      "BewV"
+    ],
+    "BGBB": [
+      "BGBB"
+    ],
+    "BGCITES": [
+      "BGCITES"
+    ],
+    "BGerR": [
+      "BGerR"
+    ],
+    "BGF": [
+      "BGF"
+    ],
+    "BGIAA": [
+      "BGIAA"
+    ],
+    "BGLE": [
+      "BGLE"
+    ],
+    "BGMD": [
+      "BGMD"
+    ],
+    "BGMK": [
+      "BGMK"
+    ],
+    "BGRB": [
+      "BGRB"
+    ],
+    "BGST": [
+      "BGST"
+    ],
+    "BiGV": [
+      "BiGV"
+    ],
+    "BIZMB": [
+      "BIZMB"
+    ],
+    "BöB": [
+      "BöB"
+    ],
+    "BPDV": [
+      "BPDV"
+    ],
+    "BPG": [
+      "BPG"
+    ],
+    "BPI": [
+      "BPI"
+    ],
+    "BPR": [
+      "BPR"
+    ],
+    "BPS": [
+      "BPS"
+    ],
+    "BPV": [
+      "BPV"
+    ],
+    "BSG": [
+      "BSG"
+    ],
+    "BStatG": [
+      "BStatG"
+    ],
+    "BStKR": [
+      "BStKR"
+    ],
+    "BTrV": [
+      "BTrV"
+    ],
+    "BÜPF": [
+      "BÜPF"
+    ],
+    "BURV": [
+      "BURV"
+    ],
+    "BVG": [
+      "BVG"
+    ],
+    "BVVG": [
+      "BVVG"
+    ],
+    "BWIS": [
+      "BWIS"
+    ],
+    "DBG": [
+      "DBG"
+    ],
+    "EBG": [
+      "EBG"
+    ],
+    "EESV": [
+      "EESV"
+    ],
+    "EFZ": [
+      "EFZ"
+    ],
+    "EIMG": [
+      "EIMG"
+    ],
+    "EIMV": [
+      "EIMV"
+    ],
+    "ELG": [
+      "ELG"
+    ],
+    "ELV": [
+      "ELV"
+    ],
+    "EMBAG": [
+      "EMBAG"
+    ],
+    "EMBAV": [
+      "EMBAV"
+    ],
+    "EmGvV": [
+      "EmGvV"
+    ],
+    "EMmV": [
+      "EMmV"
+    ],
+    "EnG": [
+      "EnG"
+    ],
+    "ENSIG": [
+      "ENSIG"
+    ],
+    "ENSIV": [
+      "ENSIV"
+    ],
+    "EntG": [
+      "EntG"
+    ],
+    "EntsV": [
+      "EntsV"
+    ],
+    "EnV": [
+      "EnV"
+    ],
+    "EÖBV": [
+      "EÖBV"
+    ],
+    "EOV": [
+      "EOV"
+    ],
+    "EPDFV": [
+      "EPDFV"
+    ],
+    "EPDG": [
+      "EPDG"
+    ],
+    "EPDV": [
+      "EPDV"
+    ],
+    "ETrV": [
+      "ETrV"
+    ],
+    "FAV": [
+      "FAV"
+    ],
+    "FDV": [
+      "FDV"
+    ],
+    "FHV": [
+      "FHV",
+      "KLR"
+    ],
+    "FIFG": [
+      "FIFG"
+    ],
+    "FiFV": [
+      "FiFV"
+    ],
+    "FiLaG": [
+      "FiLaG"
+    ],
+    "FiLaV": [
+      "FiLaV"
+    ],
+    "FIPBV": [
+      "FIPBV"
+    ],
+    "FiREG": [
+      "FiREG"
+    ],
+    "FiV": [
+      "FiV"
+    ],
+    "FKINV": [
+      "FKINV"
+    ],
+    "FLG": [
+      "FLG"
+    ],
+    "FLV": [
+      "FLV"
+    ],
+    "FMedV": [
+      "FMedV"
+    ],
+    "FMG": [
+      "FMG"
+    ],
+    "FOrgV": [
+      "FOrgV"
+    ],
+    "FPV": [
+      "FPV"
+    ],
+    "FQIV": [
+      "FQIV"
+    ],
+    "FWG": [
+      "FWG"
+    ],
+    "FWV": [
+      "FWV"
+    ],
+    "GBV": [
+      "GBV"
+    ],
+    "GeoNV": [
+      "GeoNV"
+    ],
+    "GLPV": [
+      "GLPV"
+    ],
+    "GRN": [
+      "GRN"
+    ],
+    "GRS": [
+      "GRS"
+    ],
+    "GSchV": [
+      "GSchV"
+    ],
+    "GUMG": [
+      "GUMG"
+    ],
+    "GUMV": [
+      "GUMV"
+    ],
+    "HasLV": [
+      "HasLV"
+    ],
+    "HKSV": [
+      "HKSV"
+    ],
+    "HRegV": [
+      "HRegV",
+      "SICAV",
+      "SICAF"
+    ],
+    "HVA": [
+      "HVA"
+    ],
+    "HVI": [
+      "HVI"
+    ],
+    "HVUV": [
+      "HVUV"
+    ],
+    "IAMV": [
+      "IAMV"
+    ],
+    "IBSG": [
+      "IBSG"
+    ],
+    "IBSV": [
+      "IBSV"
+    ],
+    "IBTV": [
+      "IBTV"
+    ],
+    "IFEG": [
+      "IFEG"
+    ],
+    "IGEG": [
+      "IGEG"
+    ],
+    "InvV": [
+      "InvV"
+    ],
+    "IPFiV": [
+      "IPFiV"
+    ],
+    "IPRG": [
+      "IPRG"
+    ],
+    "IQG": [
+      "IQG"
+    ],
+    "ISLV": [
+      "ISLV"
+    ],
+    "ISUV": [
+      "ISUV"
+    ],
+    "IvDV": [
+      "IvDV"
+    ],
+    "IVG": [
+      "IVG"
+    ],
+    "IVV": [
+      "IVV"
+    ],
+    "IVZV": [
+      "IVZV"
+    ],
+    "JSFVG": [
+      "JSFVG"
+    ],
+    "JSFVV": [
+      "JSFVV"
+    ],
+    "KBFHV": [
+      "KBFHV"
+    ],
+    "KEG": [
+      "KEG"
+    ],
+    "KEV": [
+      "KEV"
+    ],
+    "KGSG": [
+      "KGSG"
+    ],
+    "KGSV": [
+      "KGSV"
+    ],
+    "KGVV": [
+      "KGVV"
+    ],
+    "KHG": [
+      "KHG"
+    ],
+    "KHV": [
+      "KHV"
+    ],
+    "KKG": [
+      "KKG"
+    ],
+    "KlG": [
+      "KlG"
+    ],
+    "KOBV": [
+      "KOBV"
+    ],
+    "KOV": [
+      "KOV"
+    ],
+    "KoVo": [
+      "KoVo"
+    ],
+    "KPFV": [
+      "KPFV"
+    ],
+    "KV": [
+      "KV"
+    ],
+    "KVG": [
+      "KVG"
+    ],
+    "KVV": [
+      "KVV"
+    ],
+    "LeV": [
+      "Bahnen"
+    ],
+    "LFG": [
+      "Slots"
+    ],
+    "LGBV": [
+      "LGBV"
+    ],
+    "LGV": [
+      "LGV"
+    ],
+    "LIV": [
+      "LIV"
+    ],
+    "LMmV": [
+      "LMmV"
+    ],
+    "LMVV": [
+      "LMVV"
+    ],
+    "LPG": [
+      "LPG"
+    ],
+    "LRV": [
+      "LRV"
+    ],
+    "LSMV": [
+      "LSMV"
+    ],
+    "LSV": [
+      "LSV"
+    ],
+    "LTrV": [
+      "LTrV"
+    ],
+    "MAkkV": [
+      "MAkkV"
+    ],
+    "MCAV": [
+      "MCAV"
+    ],
+    "MepV": [
+      "MepV"
+    ],
+    "MeQV": [
+      "MeQV"
+    ],
+    "MessMV": [
+      "MessMV"
+    ],
+    "MetG": [
+      "MetG"
+    ],
+    "MetV": [
+      "MetV"
+    ],
+    "MGwV": [
+      "MGwV"
+    ],
+    "MIG": [
+      "MIG"
+    ],
+    "MinLV": [
+      "MinLV"
+    ],
+    "MinöStG": [
+      "MinöStG"
+    ],
+    "MinöStV": [
+      "MinöStV"
+    ],
+    "MinVG": [
+      "MinVG"
+    ],
+    "MinVV": [
+      "MinVV"
+    ],
+    "MiPV": [
+      "MiPV"
+    ],
+    "MIV": [
+      "MIV"
+    ],
+    "MJV": [
+      "MJV"
+    ],
+    "MNKPV": [
+      "MNKPV"
+    ],
+    "MSchV": [
+      "MSchV"
+    ],
+    "MStG": [
+      "MStG"
+    ],
+    "MStP": [
+      "MStP"
+    ],
+    "MStV": [
+      "MStV"
+    ],
+    "MünzV": [
+      "MünzV"
+    ],
+    "MVG": [
+      "MVG"
+    ],
+    "MVV": [
+      "MVV"
+    ],
+    "MWSTV": [
+      "MWSTV"
+    ],
+    "NAFG": [
+      "NAFG"
+    ],
+    "NARV": [
+      "NARV"
+    ],
+    "NEV": [
+      "NEV"
+    ],
+    "NHG": [
+      "NHG"
+    ],
+    "NHV": [
+      "NHV"
+    ],
+    "NISSG": [
+      "NISSG"
+    ],
+    "NISV": [
+      "NISV"
+    ],
+    "NSG": [
+      "NSG"
+    ],
+    "NSV": [
+      "NSV"
+    ],
+    "NZV": [
+      "NZV"
+    ],
+    "OBG": [
+      "OBG"
+    ],
+    "OBV": [
+      "OBV"
+    ],
+    "ÖREBKV": [
+      "ÖREBKV"
+    ],
+    "PAV": [
+      "PAV"
+    ],
+    "PAVV": [
+      "PAVV"
+    ],
+    "PfG": [
+      "PfG"
+    ],
+    "PfV": [
+      "PfV"
+    ],
+    "PG": [
+      "PG"
+    ],
+    "PGRELV": [
+      "PGRELV"
+    ],
+    "PrSG": [
+      "PrSG"
+    ],
+    "PrSV": [
+      "PrSV"
+    ],
+    "PSMV": [
+      "PSMV"
+    ],
+    "PüG": [
+      "PüG"
+    ],
+    "PVBger": [
+      "PVBger"
+    ],
+    "PVFMH": [
+      "PVFMH"
+    ],
+    "PVGer": [
+      "PVGer"
+    ],
+    "PVSPA": [
+      "PVSPA"
+    ],
+    "QuNaV": [
+      "QuNaV"
+    ],
+    "RDV": [
+      "RDV"
+    ],
+    "ReRBGer": [
+      "ReRBGer"
+    ],
+    "RHV": [
+      "RHV"
+    ],
+    "RPV": [
+      "RPV"
+    ],
+    "RSD": [
+      "RSD"
+    ],
+    "RTVG": [
+      "RTVG"
+    ],
+    "RTVV": [
+      "RTVV"
+    ],
+    "RVOG": [
+      "RVOG"
+    ],
+    "RVOV": [
+      "RVOV"
+    ],
+    "SAMV": [
+      "SAMV"
+    ],
+    "SaV": [
+      "SaV"
+    ],
+    "SBBG": [
+      "SBBG"
+    ],
+    "SBMV": [
+      "SBMV"
+    ],
+    "SchKG": [
+      "SchKG"
+    ],
+    "SDR": [
+      "SDR"
+    ],
+    "SeilV": [
+      "VI"
+    ],
+    "SFV": [
+      "SFV"
+    ],
+    "SGV": [
+      "SGV"
+    ],
+    "SIRG": [
+      "SIRG"
+    ],
+    "SnAV": [
+      "SnAV"
+    ],
+    "SprstV": [
+      "SprstV"
+    ],
+    "SRVG": [
+      "SRVG"
+    ],
+    "SSV": [
+      "SSV"
+    ],
+    "StADG": [
+      "StADG"
+    ],
+    "StAV": [
+      "StAV"
+    ],
+    "STEBV": [
+      "STEBV"
+    ],
+    "StG": [
+      "StG"
+    ],
+    "StMmV": [
+      "StMmV"
+    ],
+    "StromVV": [
+      "StromVV"
+    ],
+    "StSG": [
+      "StSG"
+    ],
+    "StSV": [
+      "StSV",
+      "Dosimetrie",
+      "NORM"
+    ],
+    "STUG": [
+      "STUG"
+    ],
+    "STUV": [
+      "STUV"
+    ],
+    "StV": [
+      "StV"
+    ],
+    "STVG": [
+      "STVG"
+    ],
+    "SVG": [
+      "SVG"
+    ],
+    "TBDV": [
+      "TBDV"
+    ],
+    "TEVG": [
+      "TEVG"
+    ],
+    "TGBV": [
+      "TGBV"
+    ],
+    "TGDV": [
+      "TGDV"
+    ],
+    "TGV": [
+      "TGV"
+    ],
+    "THG": [
+      "THG"
+    ],
+    "TMmV": [
+      "TMmV"
+    ],
+    "TPFV": [
+      "TPFV"
+    ],
+    "TSchG": [
+      "TSchG"
+    ],
+    "TSchV": [
+      "TSchV"
+    ],
+    "TSG": [
+      "TSG"
+    ],
+    "TSV": [
+      "TSV"
+    ],
+    "TVSV": [
+      "TVSV"
+    ],
+    "UGüTG": [
+      "UGüTG"
+    ],
+    "UIDG": [
+      "UIDG"
+    ],
+    "UIDV": [
+      "UIDV"
+    ],
+    "ÜLG": [
+      "ÜLG"
+    ],
+    "ÜLV": [
+      "ÜLV"
+    ],
+    "UraM": [
+      "UraM"
+    ],
+    "UVG": [
+      "UVG"
+    ],
+    "UVPV": [
+      "UVPV"
+    ],
+    "UVV": [
+      "UVV"
+    ],
+    "UWG": [
+      "UWG"
+    ],
+    "VABFP": [
+      "VABFP"
+    ],
+    "VABK": [
+      "VABK"
+    ],
+    "VAböV": [
+      "VAböV"
+    ],
+    "VABUA": [
+      "VABUA"
+    ],
+    "VAEW": [
+      "VAEW"
+    ],
+    "VAF": [
+      "VAF"
+    ],
+    "VAI": [
+      "VAI"
+    ],
+    "VAK": [
+      "VAK"
+    ],
+    "VAMF": [
+      "VAMF"
+    ],
+    "VAmFD": [
+      "VAmFD"
+    ],
+    "VAMV": [
+      "VAMV"
+    ],
+    "VAN": [
+      "VAN"
+    ],
+    "VAND": [
+      "VAND"
+    ],
+    "VAPF": [
+      "VAPF"
+    ],
+    "VAPK": [
+      "VAPK"
+    ],
+    "VASA": [
+      "VASA"
+    ],
+    "VASm": [
+      "VASm"
+    ],
+    "VASR": [
+      "VASR"
+    ],
+    "VATPE": [
+      "VATPE"
+    ],
+    "VATV": [
+      "VATV"
+    ],
+    "VAU": [
+      "VAU"
+    ],
+    "VAusb": [
+      "VAusb"
+    ],
+    "VAV": [
+      "VAV"
+    ],
+    "VBB": [
+      "VBB"
+    ],
+    "VBBo": [
+      "VBBo"
+    ],
+    "VBGF": [
+      "VBGF"
+    ],
+    "VBLN": [
+      "VBLN"
+    ],
+    "VBNIB": [
+      "VBNIB"
+    ],
+    "VBO": [
+      "VBO"
+    ],
+    "VböV": [
+      "VböV"
+    ],
+    "VBPV": [
+      "VBPV"
+    ],
+    "VBRK": [
+      "VBRK"
+    ],
+    "VBSTB": [
+      "VBSTB"
+    ],
+    "VBSV": [
+      "VBSV"
+    ],
+    "VBVA": [
+      "VBVA"
+    ],
+    "VBVV": [
+      "VBVV"
+    ],
+    "VBWK": [
+      "VBWK"
+    ],
+    "VCITES": [
+      "VCITES"
+    ],
+    "VDA": [
+      "VDA"
+    ],
+    "VDPS": [
+      "VDPS"
+    ],
+    "VDSZ": [
+      "VDSZ"
+    ],
+    "VDZV": [
+      "VDZV"
+    ],
+    "VEAF": [
+      "VEAF"
+    ],
+    "VEAGOG": [
+      "VEAGOG"
+    ],
+    "VEBMP": [
+      "VEBMP"
+    ],
+    "VEJ": [
+      "VEJ"
+    ],
+    "VEKF": [
+      "VEKF"
+    ],
+    "VEL": [
+      "VEL"
+    ],
+    "VEleS": [
+      "VEleS"
+    ],
+    "VEMV": [
+      "VEMV"
+    ],
+    "VEMZ": [
+      "VEMZ"
+    ],
+    "VETHBK": [
+      "VETHBK"
+    ],
+    "VEV": [
+      "VEV",
+      "EU",
+      "EG"
+    ],
+    "VeVA": [
+      "VeVA"
+    ],
+    "VFAI": [
+      "VFAI"
+    ],
+    "VFAL": [
+      "VFAL"
+    ],
+    "VFAV": [
+      "VFAV"
+    ],
+    "VFBF": [
+      "VFBF"
+    ],
+    "VFD": [
+      "VFD",
+      "AMS",
+      "AMC"
+    ],
+    "VFlaW": [
+      "VFlaW"
+    ],
+    "VFRR": [
+      "VFRR"
+    ],
+    "VFSD": [
+      "VFSD"
+    ],
+    "VFV": [
+      "VFV"
+    ],
+    "VGD": [
+      "VGD"
+    ],
+    "VGeK": [
+      "VGeK"
+    ],
+    "VGKE": [
+      "VGKE"
+    ],
+    "VGR": [
+      "VGR"
+    ],
+    "VGSEB": [
+      "VGSEB"
+    ],
+    "VGV": [
+      "VGV"
+    ],
+    "VGVL": [
+      "VGVL"
+    ],
+    "VGWR": [
+      "VGWR"
+    ],
+    "VHBT": [
+      "VHBT"
+    ],
+    "VHIS": [
+      "VHIS"
+    ],
+    "VHyMP": [
+      "VHyMP"
+    ],
+    "VHyPrP": [
+      "VHyPrP"
+    ],
+    "VHyS": [
+      "VHyS"
+    ],
+    "VID": [
+      "VID"
+    ],
+    "VIL": [
+      "VIL"
+    ],
+    "VILB": [
+      "VILB"
+    ],
+    "VIM": [
+      "VIM"
+    ],
+    "VIMK": [
+      "VIMK"
+    ],
+    "VIntA": [
+      "VIntA"
+    ],
+    "VISOS": [
+      "VISOS"
+    ],
+    "VITH": [
+      "VITH"
+    ],
+    "VIVS": [
+      "VIVS"
+    ],
+    "ViZG": [
+      "ViZG"
+    ],
+    "VIZMB": [
+      "VIZMB"
+    ],
+    "VJAR-FSTD": [
+      "EU"
+    ],
+    "VKA": [
+      "VKA"
+    ],
+    "VKKG": [
+      "VKKG"
+    ],
+    "VKKL": [
+      "VKKL"
+    ],
+    "VKKP": [
+      "VKKP"
+    ],
+    "VKL": [
+      "VKL"
+    ],
+    "VKNS": [
+      "VKNS"
+    ],
+    "VKos": [
+      "VKos"
+    ],
+    "VKOVA": [
+      "VKOVA"
+    ],
+    "VKSD": [
+      "VKSD"
+    ],
+    "VKSWk": [
+      "VKSWk"
+    ],
+    "VKVöV": [
+      "VKVöV"
+    ],
+    "VKZ": [
+      "VKZ"
+    ],
+    "VLBE": [
+      "VLBE"
+    ],
+    "VLE": [
+      "VLE"
+    ],
+    "VLF": [
+      "VLF"
+    ],
+    "VLHb": [
+      "VLHb"
+    ],
+    "VLIb": [
+      "VLIb"
+    ],
+    "VLIp": [
+      "VLIp"
+    ],
+    "VLK": [
+      "VLK"
+    ],
+    "VLKA": [
+      "VLKA"
+    ],
+    "VLL": [
+      "VLL"
+    ],
+    "VLpH": [
+      "VLpH"
+    ],
+    "VLtH": [
+      "VLtH"
+    ],
+    "VMAP": [
+      "VMAP"
+    ],
+    "VMBM": [
+      "VMBM"
+    ],
+    "VMDP": [
+      "VMDP"
+    ],
+    "VMILAK": [
+      "VMILAK"
+    ],
+    "VmKI": [
+      "VmKI"
+    ],
+    "VMob": [
+      "VMob"
+    ],
+    "VMS": [
+      "VMS"
+    ],
+    "VMSch": [
+      "VMSch"
+    ],
+    "VMSV": [
+      "VMSV"
+    ],
+    "VMWG": [
+      "VMWG"
+    ],
+    "VNEF": [
+      "VNEF"
+    ],
+    "VNEK": [
+      "VNEK"
+    ],
+    "VNem": [
+      "VNem"
+    ],
+    "VNF": [
+      "VNF"
+    ],
+    "VöB": [
+      "VöB"
+    ],
+    "VOCV": [
+      "VOCV"
+    ],
+    "VOD": [
+      "VOD"
+    ],
+    "VOEW": [
+      "VOEW"
+    ],
+    "VOGW": [
+      "VOGW"
+    ],
+    "VORA": [
+      "VORA"
+    ],
+    "VPA": [
+      "VPA"
+    ],
+    "VPABP": [
+      "VPABP"
+    ],
+    "VPB": [
+      "VPB"
+    ],
+    "VPeA": [
+      "VPeA"
+    ],
+    "VPEV": [
+      "VPEV"
+    ],
+    "VPG": [
+      "VPG"
+    ],
+    "VPGA": [
+      "VPGA"
+    ],
+    "VPGS": [
+      "VPGS"
+    ],
+    "VPiB": [
+      "VPiB"
+    ],
+    "VPOB": [
+      "VPOB"
+    ],
+    "VPofi": [
+      "VPofi"
+    ],
+    "VPOG": [
+      "VPOG"
+    ],
+    "VPR": [
+      "VPR"
+    ],
+    "VPRG": [
+      "VPRG"
+    ],
+    "VPRH": [
+      "VPRH"
+    ],
+    "VPrP": [
+      "VPrP"
+    ],
+    "VPS": [
+      "VPS"
+    ],
+    "VPSP": [
+      "VPSP"
+    ],
+    "VPVE": [
+      "VPVE"
+    ],
+    "VPVK": [
+      "VPVK"
+    ],
+    "VRA": [
+      "VRA"
+    ],
+    "VRAB": [
+      "VRAB"
+    ],
+    "VREG": [
+      "VREG"
+    ],
+    "VRKD": [
+      "VRKD"
+    ],
+    "VRP": [
+      "VRP"
+    ],
+    "VRSL": [
+      "VRSL"
+    ],
+    "VRV": [
+      "VRV"
+    ],
+    "VSA": [
+      "VSA"
+    ],
+    "VSB": [
+      "VSB"
+    ],
+    "VSBN": [
+      "VSBN"
+    ],
+    "VSFK": [
+      "VSFK"
+    ],
+    "VSFS": [
+      "VSFS"
+    ],
+    "VSL": [
+      "VSL"
+    ],
+    "VSMS": [
+      "VSMS"
+    ],
+    "VSoTr": [
+      "VSoTr"
+    ],
+    "VSPA": [
+      "VSPA"
+    ],
+    "VSpoFöP": [
+      "VSpoFöP"
+    ],
+    "VSPS": [
+      "VSPS"
+    ],
+    "VSR": [
+      "VSR"
+    ],
+    "VSRL": [
+      "VSRL"
+    ],
+    "VST": [
+      "VST"
+    ],
+    "VStrR": [
+      "VStrR"
+    ],
+    "VSV": [
+      "VSV"
+    ],
+    "VSVB": [
+      "VSVB"
+    ],
+    "VSZV": [
+      "VSZV"
+    ],
+    "VTE": [
+      "VTE"
+    ],
+    "VTM": [
+      "VTM"
+    ],
+    "VTNP": [
+      "VTNP"
+    ],
+    "VTS": [
+      "VTS"
+    ],
+    "VTSchS": [
+      "VTSchS"
+    ],
+    "VtVtH": [
+      "VtVtH"
+    ],
+    "VUB": [
+      "VUB"
+    ],
+    "VUFB": [
+      "VUFB"
+    ],
+    "VUKBK": [
+      "VUKBK"
+    ],
+    "VUM": [
+      "VUM"
+    ],
+    "VÜPF": [
+      "VÜPF"
+    ],
+    "VVA": [
+      "VVA"
+    ],
+    "VVAG": [
+      "VVAG"
+    ],
+    "VVAwG": [
+      "VVAwG"
+    ],
+    "VVE": [
+      "VVE"
+    ],
+    "VVK": [
+      "VVK"
+    ],
+    "VVMH": [
+      "VVMH"
+    ],
+    "VVNF": [
+      "VVNF"
+    ],
+    "VVV": [
+      "VVV"
+    ],
+    "VVWAL": [
+      "VVWAL"
+    ],
+    "VWEG": [
+      "VWEG"
+    ],
+    "VWEV": [
+      "VWEV"
+    ],
+    "VWL": [
+      "VWL"
+    ],
+    "VWLV": [
+      "VWLV"
+    ],
+    "VZAE": [
+      "VZAE"
+    ],
+    "VZG": [
+      "VZG"
+    ],
+    "VZSchB": [
+      "VZSchB"
+    ],
+    "VZVM": [
+      "VZVM"
+    ],
+    "WeBiG": [
+      "WeBiG"
+    ],
+    "WeBiV": [
+      "WeBiV"
+    ],
+    "WEFV": [
+      "WEFV"
+    ],
+    "WEG": [
+      "WEG"
+    ],
+    "WPEG": [
+      "WPEG"
+    ],
+    "WPEV": [
+      "WPEV"
+    ],
+    "WZG": [
+      "WZG"
+    ],
+    "WZVV": [
+      "WZVV"
+    ],
+    "ZDUeV": [
+      "ZDUeV"
+    ],
+    "ZEBG": [
+      "ZEBG"
+    ],
+    "ZentG": [
+      "ZentG"
+    ],
+    "ZeugSG": [
+      "ZeugSG"
+    ],
+    "ZeugSV": [
+      "ZeugSV"
+    ],
+    "ZG": [
+      "ZG"
+    ],
+    "ZISG": [
+      "ZISG"
+    ],
+    "ZMessV": [
+      "ZMessV"
+    ],
+    "ZSTEBV": [
+      "ZSTEBV"
+    ],
+    "ZStGV": [
+      "ZStGV"
+    ],
+    "ZStV": [
+      "ZStV"
+    ],
+    "ZTG": [
+      "ZTG"
+    ],
+    "ZV": [
+      "ZV"
+    ],
+    "ZWV": [
+      "ZWV"
+    ]
+  }
+}

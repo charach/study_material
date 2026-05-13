@@ -23,3 +23,18 @@ __pycache__/
 *.exe
 *.out
 *.app
+
+# Kaggle competition data (too large for git)
+kaggle/LLM Agentic Legal Information Retrieval/data/
+
+# Local build artifacts
+kaggle/LLM Agentic Legal Information Retrieval/build/
+
+# Cloned starter repo (it has its own upstream)
+kaggle/LLM Agentic Legal Information Retrieval/Omnilex-Agentic-Retrieval-Competition/
+
+# Large EDA dump (regenerable)
+kaggle/LLM Agentic Legal Information Retrieval/eda_output/insights.txt
+
+# Jupyter
+.ipynb_checkpoints/

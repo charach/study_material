@@ -1,0 +1,306 @@
+{
+  "data_files": {
+    "train.csv": 1139,
+    "val.csv": 10,
+    "test.csv": 40,
+    "sample_submission.csv": 2,
+    "laws_de.csv": 175933,
+    "court_considerations.csv": 2476315
+  },
+  "submission_format": {
+    "columns": [
+      "query_id",
+      "predicted_citations"
+    ],
+    "sample_rows": [
+      {
+        "query_id": "test_0001",
+        "predicted_citations": "Art. 111 ZGB;Art. 114 ZGB"
+      },
+      {
+        "query_id": "test_0002",
+        "predicted_citations": "Art. 457 ZGB;Art. 462 ZGB"
+      }
+    ],
+    "separator_in_predicted_citations": ";",
+    "test_id_format_first": "test_001",
+    "sample_id_format_first": "test_0001",
+    "id_format_mismatch_warning": true
+  },
+  "queries": {
+    "train": {
+      "rows": 1139,
+      "query_char_len": {
+        "mean": 1620.3046532045655,
+        "median": 1016.0,
+        "p90": 2866.8,
+        "min": 40,
+        "max": 32767
+      },
+      "query_word_len": {
+        "mean": 230.50482879719053,
+        "median": 145.0,
+        "p90": 398.0000000000002
+      },
+      "lang_guess": {
+        "de": 1116,
+        "unknown": 20,
+        "en": 3
+      },
+      "id_format_sample": "train_0001"
+    },
+    "val": {
+      "rows": 10,
+      "query_char_len": {
+        "mean": 1462.6,
+        "median": 1554.0,
+        "p90": 1699.7,
+        "min": 1068,
+        "max": 1742
+      },
+      "query_word_len": {
+        "mean": 227.1,
+        "median": 233.5,
+        "p90": 277.6
+      },
+      "lang_guess": {
+        "en": 10
+      },
+      "id_format_sample": "val_001"
+    },
+    "test": {
+      "rows": 40,
+      "query_char_len": {
+        "mean": 1398.85,
+        "median": 1395.5,
+        "p90": 1684.3,
+        "min": 859,
+        "max": 1730
+      },
+      "query_word_len": {
+        "mean": 218.525,
+        "median": 217.5,
+        "p90": 255.1
+      },
+      "lang_guess": {
+        "en": 40
+      },
+      "id_format_sample": "test_001"
+    }
+  },
+  "citations": {
+    "train": {
+      "queries_with_gold": 1139,
+      "avg_citations_per_query": 4.090430201931519,
+      "median_citations_per_query": 2.0,
+      "p90_citations_per_query": 9.0,
+      "p99_citations_per_query": 21.0,
+      "max_citations_per_query": 44,
+      "min_citations_per_query": 1,
+      "total_citation_mentions": 4659,
+      "type_totals": {
+        "article": 4602,
+        "bge": 57
+      },
+      "type_share_pct": {
+        "article": 98.78,
+        "bge": 1.22
+      },
+      "top_law_codes": [
+        [
+          "ZGB",
+          917
+        ],
+        [
+          "OR",
+          466
+        ],
+        [
+          "StGB",
+          287
+        ],
+        [
+          "BV",
+          238
+        ],
+        [
+          "ZPO",
+          210
+        ],
+        [
+          "GBV",
+          189
+        ],
+        [
+          "IPRG",
+          179
+        ],
+        [
+          "DBG",
+          151
+        ],
+        [
+          "StPO",
+          117
+        ],
+        [
+          "URG",
+          108
+        ],
+        [
+          "DSG",
+          98
+        ],
+        [
+          "JStG",
+          93
+        ],
+        [
+          "JStPO",
+          77
+        ],
+        [
+          "BGG",
+          76
+        ],
+        [
+          "SchKG",
+          73
+        ],
+        [
+          "AIG",
+          66
+        ],
+        [
+          "RPG",
+          65
+        ],
+        [
+          "FIDLEG",
+          60
+        ],
+        [
+          "VwVG",
+          51
+        ],
+        [
+          "AsylG",
+          48
+        ],
+        [
+          "SVG",
+          47
+        ],
+        [
+          "VStG",
+          43
+        ],
+        [
+          "LugÜ",
+          43
+        ],
+        [
+          "FINMAG",
+          39
+        ],
+        [
+          "UWG",
+          39
+        ],
+        [
+          "USG",
+          37
+        ],
+        [
+          "ATSG",
+          34
+        ],
+        [
+          "BankG",
+          34
+        ],
+        [
+          "UVG",
+          30
+        ],
+        [
+          "IRSG",
+          29
+        ]
+      ],
+      "unique_citations": 2695
+    },
+    "val": {
+      "queries_with_gold": 10,
+      "avg_citations_per_query": 25.1,
+      "median_citations_per_query": 22.0,
+      "p90_citations_per_query": 42.5,
+      "p99_citations_per_query": 46.55,
+      "max_citations_per_query": 47,
+      "min_citations_per_query": 10,
+      "total_citation_mentions": 251,
+      "type_totals": {
+        "article": 149,
+        "bge": 69,
+        "bger": 33
+      },
+      "type_share_pct": {
+        "article": 59.36,
+        "bge": 27.49,
+        "bger": 13.15
+      },
+      "unique_citations": 222,
+      "overlap_with_train_unique": 39,
+      "coverage_pct_in_train": 17.57
+    }
+  },
+  "laws_corpus": {
+    "rows": 175933,
+    "columns": [
+      "citation",
+      "text",
+      "title"
+    ],
+    "unique_citations": 175933,
+    "sample_citations": [
+      "Art. 1 112",
+      "Art. 2 112",
+      "Art. 3 Abs. 1 112",
+      "Art. 3 Abs. 2 112",
+      "Art. 4 Abs. 1 112",
+      "Art. 4 Abs. 2 112",
+      "Art. 4 Abs. 3 112",
+      "Art. 5 Abs. 1 112",
+      "Art. 5 Abs. 2 112",
+      "Art. 8 112"
+    ],
+    "text_char_len_mean": 241.84586177692645,
+    "text_char_len_p90": 428.0,
+    "title_nunique": 34784,
+    "train_article_exact_match_in_corpus_pct": 70.88,
+    "train_article_exact_match_count": 3262,
+    "train_article_total": 4602
+  },
+  "court_corpus": {
+    "rows": 2476315,
+    "approx_unique_citations_seen": 528004,
+    "total_text_chars": 2317342654,
+    "avg_text_chars": 935.8028578755126,
+    "sample_rows": [
+      {
+        "citation": "BGE 139 I 2 E. 1.12.2011",
+        "text_preview": "betr. Verweigerung der Beiladung seien gutzuheissen. BGE 139 I 2 S. 7"
+      },
+      {
+        "citation": "BGE 139 I 2 E. 2",
+        "text_preview": "Eventualiter sei die Rückweisung an die Vorinstanz zur Neubehandlung, ergänzenden Sachverhaltsabklärung und Neubeurteilung anzuordnen.\" (...) In der Sache wird im Wesentlichen vorgetragen, erstens mis"
+      },
+      {
+        "citation": "BGE 139 I 2 E. 5.1",
+        "text_preview": "In der Sache ist vorweg zu prüfen, ob der Entscheid des Gemeinderates über die Umzonung des Steinfabrikareals, wie er der Gemeindeversammlung vorgelegt werden soll, mit dem Volksentscheid über die ent"
+      }
+    ],
+    "train_case_citations_total": 57,
+    "note": "approx_unique_citations_seen is capped at first 50k per chunk to save memory; use for sanity only, not exact coverage."
+  }
+}

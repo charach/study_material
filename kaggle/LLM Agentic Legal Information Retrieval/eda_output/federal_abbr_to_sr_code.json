@@ -1,0 +1,434 @@
+{
+  "abbr_to_code": {
+    "ZGB": "OR",
+    "OR": "OR",
+    "StGB": "StGB",
+    "BV": "BV",
+    "ZPO": "ZPO",
+    "StPO": "StPO",
+    "JStG": "JStG",
+    "JStPO": "JStPO",
+    "BGG": "BGG",
+    "URG": "URG",
+    "DSG": "DSG",
+    "AIG": "AIG",
+    "RPG": "RPG",
+    "FIDLEG": "FIDLEG",
+    "VwVG": "VwVG",
+    "AsylG": "AsylG",
+    "SVG": "SVG",
+    "VStG": "VStG",
+    "FINMAG": "FINMAG",
+    "USG": "USG",
+    "BankG": "BankG",
+    "UVG": "SprstG",
+    "IRSG": "IRSG",
+    "SchKG": "SchKG",
+    "GBV": "GBV",
+    "IVG": "831.201.7",
+    "AHVG": "RAV",
+    "KAG": "KAG",
+    "LugÜ": "ZPO",
+    "MWSTG": "MWSTG",
+    "MStG": "MStG",
+    "MStP": "MStP",
+    "BÜPF": "VÜPF",
+    "AVIG": "AVIG",
+    "ArG": "1",
+    "GwG": "GwG",
+    "FusG": "FusG",
+    "PartG": "PartG",
+    "FMG": "FMG",
+    "BetmG": "BetmG",
+    "WaG": "WaG",
+    "GSchG": "GSchG"
+  },
+  "all_matches_per_abbr": {
+    "ZGB": [
+      [
+        "OR",
+        3662
+      ],
+      [
+        "ZGB",
+        2395
+      ],
+      [
+        "ZPO",
+        1
+      ]
+    ],
+    "OR": [
+      [
+        "OR",
+        3662
+      ],
+      [
+        "GlG",
+        8
+      ],
+      [
+        "VVG",
+        2
+      ],
+      [
+        "EBG",
+        1
+      ],
+      [
+        "LFG",
+        1
+      ]
+    ],
+    "StGB": [
+      [
+        "StGB",
+        1239
+      ],
+      [
+        "V-StGB-MStG-JStG",
+        52
+      ],
+      [
+        "V-StGB-MSt",
+        51
+      ],
+      [
+        "JStG",
+        3
+      ],
+      [
+        "ArG",
+        2
+      ]
+    ],
+    "BV": [
+      [
+        "BV",
+        658
+      ]
+    ],
+    "ZPO": [
+      [
+        "ZPO",
+        857
+      ]
+    ],
+    "StPO": [
+      [
+        "StPO",
+        1306
+      ]
+    ],
+    "JStG": [
+      [
+        "JStG",
+        115
+      ],
+      [
+        "V-StGB-MStG-JStG",
+        52
+      ]
+    ],
+    "JStPO": [
+      [
+        "JStPO",
+        135
+      ]
+    ],
+    "BGG": [
+      [
+        "BGG",
+        325
+      ],
+      [
+        "RTVG",
+        3
+      ]
+    ],
+    "URG": [
+      [
+        "URG",
+        285
+      ]
+    ],
+    "DSG": [
+      [
+        "DSG",
+        209
+      ]
+    ],
+    "AIG": [
+      [
+        "AIG",
+        631
+      ],
+      [
+        "GebV-AIG",
+        34
+      ]
+    ],
+    "RPG": [
+      [
+        "RPG",
+        155
+      ]
+    ],
+    "FIDLEG": [
+      [
+        "FIDLEG",
+        246
+      ]
+    ],
+    "VwVG": [
+      [
+        "VwVG",
+        205
+      ]
+    ],
+    "AsylG": [
+      [
+        "AsylG",
+        526
+      ]
+    ],
+    "SVG": [
+      [
+        "SVG",
+        509
+      ]
+    ],
+    "VStG": [
+      [
+        "VStG",
+        223
+      ],
+      [
+        "StG",
+        1
+      ]
+    ],
+    "FINMAG": [
+      [
+        "FINMAG",
+        224
+      ],
+      [
+        "956.11",
+        47
+      ]
+    ],
+    "UWG": [],
+    "USG": [
+      [
+        "USG",
+        354
+      ]
+    ],
+    "ATSG": [],
+    "BankG": [
+      [
+        "BankG",
+        269
+      ]
+    ],
+    "UVG": [
+      [
+        "SprstG",
+        1
+      ]
+    ],
+    "IRSG": [
+      [
+        "IRSG",
+        375
+      ],
+      [
+        "KGTG",
+        1
+      ]
+    ],
+    "IPRG": [],
+    "DBG": [],
+    "SchKG": [
+      [
+        "SchKG",
+        135
+      ]
+    ],
+    "GBV": [
+      [
+        "GBV",
+        469
+      ]
+    ],
+    "UVPV": [],
+    "BVG": [],
+    "IVG": [
+      [
+        "831.201.7",
+        14
+      ]
+    ],
+    "AHVG": [
+      [
+        "RAV",
+        10
+      ]
+    ],
+    "KAG": [
+      [
+        "KAG",
+        385
+      ]
+    ],
+    "LugÜ": [
+      [
+        "ZPO",
+        3
+      ]
+    ],
+    "MWSTG": [
+      [
+        "MWSTG",
+        418
+      ]
+    ],
+    "MStG": [
+      [
+        "MStG",
+        811
+      ],
+      [
+        "V-StGB-MStG-JStG",
+        52
+      ],
+      [
+        "V-StGB-MSt",
+        51
+      ]
+    ],
+    "MStP": [
+      [
+        "MStP",
+        589
+      ]
+    ],
+    "BÜPF": [
+      [
+        "VÜPF",
+        219
+      ],
+      [
+        "BÜPF",
+        129
+      ],
+      [
+        "VD-ÜPF",
+        75
+      ],
+      [
+        "StPO",
+        42
+      ],
+      [
+        "VVS-ÜPF",
+        39
+      ]
+    ],
+    "AVIG": [
+      [
+        "AVIG",
+        443
+      ],
+      [
+        "837.023.3",
+        22
+      ]
+    ],
+    "ArG": [
+      [
+        "1",
+        238
+      ],
+      [
+        "ArG",
+        193
+      ],
+      [
+        "2",
+        145
+      ],
+      [
+        "4",
+        114
+      ],
+      [
+        "3",
+        98
+      ]
+    ],
+    "GwG": [
+      [
+        "GwG",
+        162
+      ]
+    ],
+    "FusG": [
+      [
+        "FusG",
+        262
+      ]
+    ],
+    "PartG": [
+      [
+        "PartG",
+        83
+      ]
+    ],
+    "FMG": [
+      [
+        "FMG",
+        263
+      ],
+      [
+        "784.101.112",
+        5
+      ],
+      [
+        "784.105.11",
+        4
+      ],
+      [
+        "RTVG",
+        3
+      ],
+      [
+        "LFG",
+        1
+      ]
+    ],
+    "BetmG": [
+      [
+        "BetmG",
+        153
+      ],
+      [
+        "BetmPV",
+        75
+      ]
+    ],
+    "WaG": [
+      [
+        "WaG",
+        158
+      ]
+    ],
+    "GSchG": [
+      [
+        "GSchG",
+        232
+      ]
+    ]
+  }
+}
